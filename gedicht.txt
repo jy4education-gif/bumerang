@@ -9,3 +9,6 @@ Wartete auf Bumerang.
 
 Dies ist ein Gedicht um zu simulieren
 wie Änderungen in einem Code in GitHub hinterlegt werden.
+
+Dieser Text simuliert einen Code
+welcher in einem lokalen Verzeichnis erstellt wurde
