@@ -6,3 +6,6 @@ Bumerang flog ein Stück,
 Aber kam nicht mehr zurück. 
 Publikum — noch stundenlang — 
 Wartete auf Bumerang.
+
+Dies ist ein Gedicht um zu simulieren
+wie Änderungen in einem Code in GitHub hinterlegt werden.
